@@ -6,7 +6,7 @@ function App() {
     <>
       <div>
         <div className="dashboard">
-           
+           <button>Hello world</button>
         </div>
       </div>
     </>
